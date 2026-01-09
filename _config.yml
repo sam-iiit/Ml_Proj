@@ -1,0 +1,11 @@
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+
+title: ML Project Report
+description: Predicting City Growth in the U.S.
+markdown: kramdown
+remote_theme: just-the-docs/just-the-docs@v0.4.0
+
+color_scheme: dark
+
